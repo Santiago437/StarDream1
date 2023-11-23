@@ -58,6 +58,7 @@ body{
     padding: 20px; /* Adicione algum preenchimento para melhorar a aparência */
     color: white; /* Cor do texto no cabeçalho */
     text-align: center; /* Alinhe o texto ao centro no cabeçalho */
+    border:6px inset white;
 }
 
 
